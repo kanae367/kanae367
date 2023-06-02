@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a frontend developer and a passionate story lo
 
 ### My Skills 📝
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,jquery,react,figma,photoshop,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,jquery,sass,gulp,webpack,firebase,bootstrap,figma,photoshop)](https://skillicons.dev)
 
 ### Let's Connect! 🖊
 

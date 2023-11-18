@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a frontend developer and a passionate story lo
 
 🌱 I believe that great user experiences are at the core of successful websites. I pay attention to both the aesthetics and functionality of my designs, ensuring that they are not only visually appealing but also intuitive and user-friendly.
 
-🎮 When I'm not coding, you can often see me watching anime, reading novels or playing video games. Two of my favorite games are Baldur's Gate 3 and Path of Exile. 
+🎮 When I'm not coding, you can often see me watching anime, reading novels or playing video games. Two of my favorite games are Divinity: Original Sin 2 and Path of Exile. 
 
 ### My Skills 📝
 

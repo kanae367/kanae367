@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a frontend developer and a passionate story lo
 
 ### About Me 👨🏻‍💻
 
-💡 As a frontend developer, I enjoy bringing ideas to life through clean and efficient code. I specialize in HTML, CSS, and JavaScript, and I'm constantly exploring new frameworks and libraries to improve my skills and stay up to date with the latest trends in web development.
+💡 As a frontend developer, I enjoy bringing ideas to life through clean and efficient code. I specialize in HTML, CSS, native JavaScript and React, and I'm constantly exploring new frameworks and libraries to improve my skills and stay up to date with the latest trends in web development.
 
 🌱 I believe that great user experiences are at the core of successful websites. I pay attention to both the aesthetics and functionality of my designs, ensuring that they are not only visually appealing but also intuitive and user-friendly.
 

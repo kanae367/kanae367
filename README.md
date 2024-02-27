@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a frontend developer and a passionate story lo
 
 ### Let's Connect! 🖊
 
-Feel free to reach out to me via [email](mailto:contact@pikulinweb.ru) or find me on [LinkedIn](https://www.linkedin.com/in/artyom-pikulin-8166b0279/). You can also check out my portfolio website [here](https://pikulinweb.ru) to see more of my work.
+Feel free to reach out to me via [email](mailto:artyom@pikulinweb.ru) or find me on [LinkedIn](https://www.linkedin.com/in/artyom-pikulin-8166b0279/). You can also check out my portfolio website [here](https://pikulinweb.ru) to see more of my work.
 
 Let's bring our imaginations to life through code and create amazing experiences together!
 
